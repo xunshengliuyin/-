@@ -1,0 +1,6 @@
+﻿  MFCApplication3Dlg.cpp
+f:\work\实验的\mfcapplication3\mfcapplication3\mfcapplication3dlg.cpp(27): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+f:\work\实验的\mfcapplication3\mfcapplication3\mfcapplication3dlg.cpp(59): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+f:\work\实验的\mfcapplication3\mfcapplication3\mfcapplication3dlg.cpp(230): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+f:\work\实验的\mfcapplication3\mfcapplication3\mfcapplication3dlg.cpp(231): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+  MFCApplication3.vcxproj -> F:\work\实验的\MFCApplication3\x64\Debug\MFCApplication3.exe

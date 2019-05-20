@@ -1,0 +1,5 @@
+﻿  stdafx.cpp
+  MFCApplication3.cpp
+  MFCApplication3Dlg.cpp
+f:\work\实验的\mfcapplication3\mfcapplication3\mfcapplication3dlg.cpp(162): error C2065: “P”: 未声明的标识符
+  正在生成代码...
